@@ -79,3 +79,8 @@ Publishing paikwiki-hello-cli (0.0.1) to PyPI
  - Uploading paikwiki_hello_cli-0.0.1-py3-none-any.whl 100%
  - Uploading paikwiki_hello_cli-0.0.1.tar.gz 100%
 ```
+
+## 참고 링크
+
+- [The pyproject.toml file - scripts](https://python-poetry.org/docs/master/pyproject#scripts)
+- [How To Publish Python Packages to PyPI using Poetry on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-publish-python-packages-to-pypi-using-poetry-on-ubuntu-22-04)
